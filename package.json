@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/mamr-moussa/commitlint-boilerplate/issues"
   },
-  "homepage": "https://github.com/mamr-moussa/commitlint-boilerplate#readme"
+  "homepage": "https://github.com/mamr-moussa/commitlint-boilerplate#readme",
+  "devDependencies": {
+    "standard-version": "^9.0.0"
+  }
 }
