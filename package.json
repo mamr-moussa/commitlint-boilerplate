@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/mamr-moussa/commitlint-boilerplate#readme",
   "devDependencies": {
+    "eslint": "^7.15.0",
     "standard-version": "^9.0.0"
   }
 }
