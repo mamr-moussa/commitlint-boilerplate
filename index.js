@@ -1,1 +1,1 @@
-console.log('accept')
+console.log('reject')
