@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.0.0](https://github.com/mamr-moussa/commitlint-boilerplate/compare/v2.1.0...v3.0.0) (2020-12-14)
+
+
+### ⚠ BREAKING CHANGES
+
+* **Pipeline:** pull requests will now be validated first.
+* **Pipeline:** jest testing will validate commit.
+[BOTTER-699](https://bluecrunch.atlassian.net/browse/BOTTER-669)
+
+### Features
+
+* **Pipeline:** Add jest to husky pipeline ([b28ec51](https://github.com/mamr-moussa/commitlint-boilerplate/commit/b28ec5147d6942688bdadfa0a7358bf46dd70797))
+* **Pipeline:** Travis pull requests validation ([432b3fb](https://github.com/mamr-moussa/commitlint-boilerplate/commit/432b3fbf49dd06edd65cbd560738ca77a8c53baa))
+
 ## [2.1.0](https://github.com/mamr-moussa/commitlint-boilerplate/compare/v2.0.0...v2.1.0) (2020-12-14)
 
 
