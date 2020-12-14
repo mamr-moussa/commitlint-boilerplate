@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [3.1.1](https://github.com/mamr-moussa/commitlint-boilerplate/compare/v3.1.0...v3.1.1) (2020-12-14)
+
+
+### Bug Fixes
+
+* **Travis:** added yarn to yml ([f4adb52](https://github.com/mamr-moussa/commitlint-boilerplate/commit/f4adb528c7d953128c3cb16909b90d34055cadd1))
+* **Travis:** Yarn enhancement ([054d805](https://github.com/mamr-moussa/commitlint-boilerplate/commit/054d805b8dafe3b15816ae34b7f1971d368086e9))
+* disabled travis ([5d28de9](https://github.com/mamr-moussa/commitlint-boilerplate/commit/5d28de913e469c3ab0a24fc669384e9ca6b14e63))
+
 ## [3.1.0](https://github.com/mamr-moussa/commitlint-boilerplate/compare/v3.0.0...v3.1.0) (2020-12-14)
 
 
