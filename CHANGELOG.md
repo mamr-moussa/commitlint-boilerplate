@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.1.0](https://github.com/mamr-moussa/commitlint-boilerplate/compare/v3.0.0...v3.1.0) (2020-12-14)
+
+
+### Features
+
+* **Pipeline:** Add github actions for commitlint ([c1b2da8](https://github.com/mamr-moussa/commitlint-boilerplate/commit/c1b2da87ee0778ab71a140adcceb20264e202990))
+
+
+### Bug Fixes
+
+* Enhance test pipeline ([ef0ffda](https://github.com/mamr-moussa/commitlint-boilerplate/commit/ef0ffdae323266d2b41076fcc68561b694006b2e))
+
 ## [3.0.0](https://github.com/mamr-moussa/commitlint-boilerplate/compare/v2.1.0...v3.0.0) (2020-12-14)
 
 
